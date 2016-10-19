@@ -5,7 +5,7 @@ clear all
 %%
 stim = 'stim';
 starti = 1;
-endi = 3000*16;
+endi = 59992;
 iterations = 1000;
 graph = 1;
 
